@@ -315,4 +315,4 @@ services:
       - api
       - web
     ports:
-      - "80:80"
+      - "82:82"
